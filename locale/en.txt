@@ -1,0 +1,427 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_37F3812A_69BD_AF02_41C0_0BD06122D202.source = https://maps.app.goo.gl/K95EciNSNckMYf2P7
+LinkBehaviour_D5CDF2BA_FA2F_9BF2_41C0_052830FE7774.source = https://maps.app.goo.gl/NFW3L3enM2Nc2uzt6
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://maps.app.goo.gl/n9cqtWRkSGnhsdNX9
+WebFrame_4AA4226B_5EE9_BBD2_41D7_93443020E72E.url = https://www.google.com/maps/search/26.246239,+50.566941?entry=tts&g_ep=EgoyMDI2MDQxNS4wIPu8ASoASAFQAw%3D%3D&skid=21e21c71-b350-41ef-80fc-b358b221708a
+
+## Media
+
+### Audio
+audiores_D7214AAB_52FA_DC10_41BE_59B514FEC530.mp3Url = media/audio_2CDFACC9_52E5_5410_41CB_F574F705CEF5_en.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_6FDC3F4E_3F77_E840_416C_A41819A3FEFB.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_0.webp
+imlevel_6FDDDF4E_3F77_E840_4173_45C999EF2CF4.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_1.webp
+imlevel_6FDDEF4E_3F77_E840_4170_3D2E30E74164.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_2.webp
+imlevel_6FDD9F4F_3F77_E840_4165_EBEF87C01F90.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_3.webp
+imlevel_6FDDBF4F_3F77_E840_412C_44C34FB48B10.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_4.webp
+imlevel_6FDE8F28_3F77_E9C0_4170_65E49E765D0F.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_0.webp
+imlevel_6FDEAF29_3F77_E9C0_4149_87BC5CE4DF06.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_1.webp
+imlevel_6FDE6F29_3F77_E9C0_4181_342CB3D2ED26.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_2.webp
+imlevel_6FDE0F29_3F77_E9C0_416E_76637EDA7B9C.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_3.webp
+imlevel_6FDE2F2A_3F77_E9C0_416B_F852D6B017CC.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_4.webp
+imlevel_6FD04F05_3F77_E9C0_414A_9924A9EC6392.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_0.webp
+imlevel_6FD07F05_3F77_E9C0_4178_628A04D72D0B.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_1.webp
+imlevel_6FD00F06_3F77_E9C0_4163_44B13FB24596.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_2.webp
+imlevel_6FD03F06_3F77_E9C0_4176_8203D8E8CECF.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_3.webp
+imlevel_6FD1CF06_3F77_E9C0_4182_1DC3FF489870.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_4.webp
+imlevel_6FD930F9_3F77_D840_4170_C6B27D71FC11.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_0.webp
+imlevel_6FD900FA_3F77_D840_417C_01A0B74EFD80.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_1.webp
+imlevel_6FC6E0FA_3F77_D840_4180_3C211105E30D.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_2.webp
+imlevel_6FC6C0FB_3F77_D840_4170_14DEDD108D72.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_3.webp
+imlevel_6FC680FB_3F77_D840_4159_67ADE201ADF6.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_4.webp
+imlevel_6FDA10BD_3F77_D8C0_4181_4A240AF9F4DB.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_0.webp
+imlevel_6FDBC0BD_3F77_D8C0_4179_004CF02F3DF0.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_1.webp
+imlevel_6FDBA0BD_3F77_D8C0_415D_1D2A84A4B2FE.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_2.webp
+imlevel_6FDB80BE_3F77_D8C0_416E_FEE24C77AFC2.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_3.webp
+
+### Title
+panorama_BEA6A479_A4E1_0B73_41CC_29C2975D7494.label = Balcony SF
+panorama_65BABEBF_3D56_A8C0_416B_0D19B7C6EB61.label = Bath 03
+panorama_BEA58B43_A4E1_7E97_41D8_6F68DFCB3265.label = Bathroom 01
+panorama_BEA6743B_A4E1_0AF7_41D8_D513EE3E5752.label = Bathroom 02
+panorama_BEA68E71_A4E1_1773_41A6_88ABC0B9A69B.label = Bathroom 04
+panorama_BEA56208_A4E1_0E91_41CA_D76978AA13B3.label = Bedroom 02
+panorama_BEA6FA2D_A4E1_1E93_41B2_975030BEAA86.label = Bedroom 04_a
+panorama_BEA69C5F_A4E1_7AAF_41CF_975B864F44EC.label = Bedroom 04_b
+panorama_BEA27583_A4E7_3597_41CF_A478588C13DF.label = Corridor FF_a
+panorama_BEA2A72E_A4E7_1691_41D7_2B484A3ECD02.label = Corridor FF_c
+panorama_BEA5B6AF_A4E1_37EF_41E3_7FF370960B3C.label = Corridor FF_d
+panorama_DF816ED5_C5D5_A840_41D2_3BA37076CA44.label = Courtyard
+photo_E7AFF25B_C6D6_7840_41E9_788A782D0E96.label = DSC_0004-3400
+photo_E7AFF25B_C6D6_7840_41E9_788A782D0E96.label = DSC_0004-3400
+photo_E7252262_C6D6_B840_41B7_B1B9B8951FEF.label = DSC_0014-3400
+photo_E7252262_C6D6_B840_41B7_B1B9B8951FEF.label = DSC_0014-3400
+photo_E725FD95_C6D6_A8C0_41D9_6313D7DBCF13.label = DSC_0015-3400
+photo_E725FD95_C6D6_A8C0_41D9_6313D7DBCF13.label = DSC_0015-3400
+photo_E725C859_C6D6_6840_41DE_076B4E9BA234.label = DSC_0017-3400
+photo_E725C859_C6D6_6840_41DE_076B4E9BA234.label = DSC_0017-3400
+photo_E725E396_C6D6_78C0_41D7_CDF9DFD60442.label = DSC_0019-3400
+photo_E725E396_C6D6_78C0_41D7_CDF9DFD60442.label = DSC_0019-3400
+photo_E725F583_C6D7_B8C0_41DE_10FBCFDA3DDB.label = DSC_0023-HDR-3400
+photo_E725F583_C6D7_B8C0_41DE_10FBCFDA3DDB.label = DSC_0023-HDR-3400
+photo_E725A611_C6D7_FBC0_41E4_961994B200DF.label = DSC_0028-HDR-3400_3
+photo_E725A611_C6D7_FBC0_41E4_961994B200DF.label = DSC_0028-HDR-3400_3
+photo_E725BC65_C6D7_A840_41E4_50F9F79F57F4.label = DSC_0032-3400
+photo_E725BC65_C6D7_A840_41E4_50F9F79F57F4.label = DSC_0032-3400
+photo_E7241E61_C6D6_E840_41D6_854294C721CC.label = DSC_0046-3400
+photo_E7241E61_C6D6_E840_41D6_854294C721CC.label = DSC_0046-3400
+photo_E72428D3_C6D6_E840_4199_04579F15D3E7.label = DSC_0048-3400
+photo_E72428D3_C6D6_E840_4199_04579F15D3E7.label = DSC_0048-3400
+photo_E7242333_C6D6_D9C0_41E5_8A269B6CDC23.label = DSC_0049-3400
+photo_E7242333_C6D6_D9C0_41E5_8A269B6CDC23.label = DSC_0049-3400
+photo_E7241DB9_C6D6_A8C0_41C8_BDA120B65476.label = DSC_0050-HDR-3400
+photo_E7241DB9_C6D6_A8C0_41C8_BDA120B65476.label = DSC_0050-HDR-3400
+photo_E724A056_C6D6_7840_41E7_4CEE9B6BF656.label = DSC_0057-3400
+photo_E724A056_C6D6_7840_41E7_4CEE9B6BF656.label = DSC_0057-3400
+photo_E724CAFA_C6D6_6840_41D0_E2C1228DAB82.label = DSC_0059-Pano-3400
+photo_E724CAFA_C6D6_6840_41D0_E2C1228DAB82.label = DSC_0059-Pano-3400
+photo_E724E469_C6D5_B840_4168_CA89BB29C7FC.label = DSC_0064-3400
+photo_E724E469_C6D5_B840_4168_CA89BB29C7FC.label = DSC_0064-3400
+photo_E724A4D7_C6D5_D840_41E2_9AC3EBA48412.label = DSC_0079-HDR-3400
+photo_E724A4D7_C6D5_D840_41E2_9AC3EBA48412.label = DSC_0079-HDR-3400
+photo_E724E135_C6D5_B9C0_41C7_600895911920.label = DSC_0082-HDR-3400
+photo_E724E135_C6D5_B9C0_41C7_600895911920.label = DSC_0082-HDR-3400
+photo_E7249D1D_C6D5_A9C0_41E7_EEB751F458CC.label = DSC_0084-3400
+photo_E7249D1D_C6D5_A9C0_41E7_EEB751F458CC.label = DSC_0084-3400
+photo_E73B496D_C6CA_6840_41DF_B10E14C46735.label = DSC_0086-HDR-3400
+photo_E73B496D_C6CA_6840_41DF_B10E14C46735.label = DSC_0086-HDR-3400
+photo_E73B0BE2_C6CA_A840_41DE_9D43C60E741A.label = DSC_0095-HDR-3400
+photo_E73B0BE2_C6CA_A840_41DE_9D43C60E741A.label = DSC_0095-HDR-3400
+photo_E73B3040_C6CA_D840_41D3_5FE7A01AA8ED.label = DSC_0100-HDR-3400
+photo_E73B3040_C6CA_D840_41D3_5FE7A01AA8ED.label = DSC_0100-HDR-3400
+photo_E73B2C6B_C6CA_A840_41DB_C46639C1D578.label = DSC_0102-HDR-3400
+photo_E73B2C6B_C6CA_A840_41DB_C46639C1D578.label = DSC_0102-HDR-3400
+photo_E73BDF4A_C6CA_6840_41E8_D455916CF5C1.label = DSC_0108-HDR-3400
+photo_E73BDF4A_C6CA_6840_41E8_D455916CF5C1.label = DSC_0108-HDR-3400
+photo_E73BE698_C6CA_58C0_41E0_3E868FDE2D18.label = DSC_0111-3400
+photo_E73BE698_C6CA_58C0_41E0_3E868FDE2D18.label = DSC_0111-3400
+photo_E73BEDE6_C6CB_A840_41BA_9F0FA4C24118.label = DSC_0114-3400
+photo_E73BEDE6_C6CB_A840_41BA_9F0FA4C24118.label = DSC_0114-3400
+photo_E73BE989_C6CB_E8C0_41D6_496A3F161743.label = DSC_0115-HDR-3400_1
+photo_E73BE989_C6CB_E8C0_41D6_496A3F161743.label = DSC_0115-HDR-3400_1
+photo_E73BACC7_C6CB_A840_41E5_25A016151C04.label = DSC_0120-3400
+photo_E73BACC7_C6CB_A840_41E5_25A016151C04.label = DSC_0120-3400
+photo_E73A5429_C6CA_5FC0_41DA_8B81DD5D245D.label = DSC_0122-3400
+photo_E73A5429_C6CA_5FC0_41DA_8B81DD5D245D.label = DSC_0122-3400
+photo_E73A4CB1_C6CA_68C0_41E4_6740D18FCDDE.label = DSC_0124-HDR-3400
+photo_E73A4CB1_C6CA_68C0_41E4_6740D18FCDDE.label = DSC_0124-HDR-3400
+photo_E73A2864_C6CA_A840_41D2_E95BCF0A9E06.label = DSC_0126-3400
+photo_E73A2864_C6CA_A840_41D2_E95BCF0A9E06.label = DSC_0126-3400
+photo_E73A29D2_C6CA_A840_41A2_5DA50B1AA036.label = DSC_0133-3400
+photo_E73A29D2_C6CA_A840_41A2_5DA50B1AA036.label = DSC_0133-3400
+photo_E73A9317_C6CD_B9C0_4196_5333F196B92E.label = DSC_0140-HDR-3400
+photo_E73A9317_C6CD_B9C0_4196_5333F196B92E.label = DSC_0140-HDR-3400
+photo_E73ACC1A_C6CD_EFC0_41E2_6D24016B8CC8.label = DSC_0143-3400_1
+photo_E73ACC1A_C6CD_EFC0_41E2_6D24016B8CC8.label = DSC_0143-3400_1
+panorama_BEA266E1_A4E7_1793_41D4_EFC99D808587.label = Dining Area_b
+panorama_BEA2DF4A_A4E7_1691_417F_B20E71AEFE19.label = Dining Area_b
+panorama_BEA22C84_A4E7_1B91_41E1_FC974952EB29.label = Dirty Kitchen
+panorama_668DE337_3ECA_F9C0_417B_B6F374583342.label = Dresser 03
+panorama_BEA63DAB_A4E1_1597_41D8_A05ED88EC3AE.label = Dressing FF
+panorama_BEA3A280_A4E7_0F91_41DC_089440EAC831.label = Dry Kitchen
+panorama_BEA3EF71_A4E7_3573_41E2_23F67848544E.label = Dry Kitchen_a
+panorama_6B0AEB9C_3ECA_A8C0_417B_CD6E77936AAD.label = Elevator SF
+panorama_BEA5A272_A4E1_0F71_41DD_321111B2E398.label = Entry
+panorama_DF81A59F_C5CA_B8C0_41D6_B919F388CCC4.label = Entry FF
+panorama_DE27B6B4_C54A_78C0_41B7_4BF70E076A18.label = Entry SF
+panorama_BEA2ADEC_A4E1_7591_41CC_0AE8BBA2EABB.label = Family Living
+map_2542C824_6AB1_7241_419B_F90D800977E0.label = First Floor
+panorama_92AC8A90_DECA_68C0_41E7_A97FC02F11D7.label = Front Terrace
+panorama_DF815C3F_C5D5_AFC0_41A7_1B74E61A118A.label = Garage
+map_26D9B02E_6AB1_7241_41C0_472712424A52.label = Ground Floor
+panorama_BEA5BFFF_A4E1_356F_41E1_627457B919ED.label = Gym FF
+panorama_89B67F6C_A760_F691_41CD_16D69DA196F1.label = Gym RF
+panorama_65BAB320_3D56_F9C0_417B_F1A5CC9514B8.label = IMG_20261119_151335_00_271_PureShot
+panorama_65B96781_3D56_D8C0_416D_9EA5D806359E.label = IMG_20261119_151424_00_272_PureShot
+panorama_65BAFC6B_3D56_A840_417B_D541A984892A.label = IMG_20261119_151525_00_273_PureShot
+panorama_66FA0889_3D56_A8C0_4177_DB00C7B99997.label = IMG_20261119_151624_00_274_PureShot
+panorama_BEA71F8A_A4E3_3591_41C7_5456D29DABE0.label = Jacuzzi SF
+panorama_BEA24923_A4E7_7A97_41DA_B18DFCA096F3.label = Laundry
+panorama_BEA2699A_A4E1_3DB6_41C7_B2E6F2B4CFB2.label = Lift Lobby
+panorama_BEA29BEB_A4E1_1D97_41E3_E9599DB18CE2.label = Main Entrance
+panorama_BEA27702_A4E1_1691_41D6_F144BC324E3A.label = Main Reception
+panorama_BEA28B2A_A4E7_1E91_41DB_ABE991C447CA.label = Main Reception_b
+panorama_BEA2FD5C_A4E7_3AB1_41C4_FA414440A950.label = Main Reception_c
+panorama_DF833BCA_C5CA_A840_4157_44A58F8525DC.label = Main Reception_d
+panorama_DF8CF514_C5CA_D9C0_41E2_BAEAF6F36DDD.label = Main Reception_f
+panorama_DF8C42E1_C5CA_B840_41DE_39B11C66B572.label = Main Reception_g
+panorama_DF834734_C5CA_F9C0_41DE_9AC15990272F.label = Main Reception_h
+panorama_DF81F903_C5CA_69C0_41DE_BDDF661E4162.label = Master Bedroom 01
+panorama_AD8B21B4_DECB_F8C0_41E3_D52677936921.label = Master Bedroom 01
+panorama_DF810CA8_C5CA_68C0_41D6_FED09A1D9198.label = Master Bedroom 01_a
+panorama_BEA781CF_A4E3_0DAF_41B4_D667E5FEAB6D.label = Master Bedroom 03_a
+panorama_ADF43D97_DECB_A8C0_41EE_4B1A1B570E4F.label = Office
+panorama_DF83BFFB_C5CA_6840_41D0_D95442B2B421.label = Outdoor Deck
+panorama_DF827D65_C5CA_6840_41D0_155D7FF55993.label = Outdoor Deck_a
+panorama_DF8E206E_C5CA_5840_41C4_FF63847F5400.label = Outdoor Deck_c
+panorama_D96B8BB4_C5CA_68C0_41B8_507B3B7B76BC.label = Outdoor Deck_d
+panorama_DF82621B_C5CB_BBC0_41D0_4DCE1DFB3DE7.label = Patio
+panorama_DF8394E5_C5CB_D840_41DF_2F0460483828.label = Patio_b
+album_0E690231_2971_B643_41B5_EC1980D25A88.label = Photo Album DSC_0644-3400
+panorama_DF835E32_C5CB_ABC0_41D5_53EDCCB23A1F.label = Pool _b
+panorama_DF825000_C5CA_77C0_41E1_31E5F3BC4DF0.label = Pool_a
+panorama_DF83BB47_C5CB_A840_41E3_03A78DCC23CE.label = Pool_c
+panorama_BEA39436_A4E7_0AF1_41AB_3FC453AD61CD.label = Powder Room
+map_26E35301_6AB6_F642_41AF_EB48D140C604.label = Roof Floor
+panorama_E84D41C9_CB4A_5840_41B2_62CB394D5216.label = Roof Top
+panorama_BEA6573F_A4E3_16EF_41D9_9F42782F4329.label = Roof Top_a
+panorama_BEA72AC4_A4E3_7F91_41D2_7E60E433639A.label = SAS
+map_25ED4093_6AB7_B247_41CB_D70079951BCB.label = Second Floor
+panorama_BEA6A772_A4E1_3571_41CF_1BB973B73647.label = Service Stair SF
+panorama_BEA6D04D_A4E1_0A93_41DD_2FF00219D76A.label = Service Stairs FF
+panorama_817AE1BD_A4E3_0DF3_41D0_4A8A997D2FE9.label = Service Stairs RF
+panorama_BEA658C0_A4E1_1B91_41BE_A35F5C603356.label = Shower 01
+panorama_DF83A839_C5CB_F7C0_41CB_2613264D06B6.label = Side
+panorama_BEA25972_A4E7_7D71_41E0_E84F6CE75057.label = Stairs GF_a
+panorama_BEA2A3DA_A4E7_0DB1_41D6_BD107505F633.label = Stairs GF_b
+panorama_DF835975_C5CA_A840_41D3_7624258BC538.label = Street View
+panorama_DF829CFE_C5CA_E840_41E1_4793C316479E.label = Terrace FF
+panorama_DF814943_C5D5_E840_41E4_C4F541DA7506.label = Terrace FF
+panorama_DF82A7B2_C5CA_B8C0_41E6_DDA0EA7B6A39.label = Terrace FF_a
+panorama_D9033EBB_C557_A8C0_41E3_681FD74AC84A.label = Terrace FF_a
+panorama_DF8292A8_C5CA_58C0_41DB_0A56C637EEE3.label = Terrace FF_b
+panorama_DF811533_C5D5_D9C0_41D3_F5733B14B621.label = Terrace SF
+panorama_DCE8C8E4_C577_E840_41DD_743711F0001E.label = Terrace SF
+video_92144603_DAFD_BBC0_41D2_DA247081AA35.label = Villa 90 trailer
+panorama_BEA24191_A4E7_0DB3_41AD_C23171A41CA1.label = Washroom
+map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85.label = villa 40 location map
+
+### Video
+videolevel_9EB69901_DAFA_69C0_41E9_C3AAEFB2AF2C.url = media/video_92144603_DAFD_BBC0_41D2_DA247081AA35_en.mp4
+videolevel_9EB69901_DAFA_69C0_41E9_C3AAEFB2AF2C.posterURL = media/video_92144603_DAFD_BBC0_41D2_DA247081AA35_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = AMENITIES >
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
+Button_175A5214_31FA_0014_4198_930DF49BADD9.label = BACK
+Button_3079F3B1_668B_F31E_41BD_ED7BF22BEABE.label = BACK
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = BACK
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = BACK
+Button_497A8FC0_7F77_EFF0_41B3_90E8F1C4D62C.label = BBQ Area
+Button_EAB647F0_810F_9A33_419E_B579C5E30FC2_mobile.label = BBQ Area
+Button_9AC7BC24_C54A_EFC0_41E4_A0FA90E38BCA_mobile.label = Balcony
+Button_E53C8EAE_C6CE_E8C0_41E1_8C1513AADB20.label = Balcony
+Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Bedroom 02
+Button_EA5BFD50_811D_AE73_41C7_EB3C2813E65B_mobile.label = Bedroom 02
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Bedroom 02
+Button_E97E34DD_810F_BE6D_41CB_ABDCB47A4926_mobile.label = Bedroom 02
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Bedroom 04
+Button_4509160D_7B34_1070_41AE_0E22C988D93D.label = Bedroom 04
+Button_E8CFA7A9_8107_9AD5_41BE_EA2274A86340_mobile.label = Bedroom 04
+Button_EA6A05BE_811D_BE2F_41CF_8DD5485869F9_mobile.label = Bedroom 04
+Button_E9DD252C_813D_9FD3_41CC_AFF6B07FB6F1_mobile.label = Bridge
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = CONTACT US:
+Button_750AB6F8_4E6A_FD5A_41B8_3B00F4A4F566.label = CONTINUE WATCHING
+Button_E83B0043_8107_9654_41B1_AA374A908EC4_mobile.label = Corridor
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = Corridor
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = Courtyard
+Button_E90655F5_810D_FE3D_41DB_D1C5BFC85F98_mobile.label = Courtyard
+Button_E96169A6_810F_B6DF_41B6_0B16FA839798_mobile.label = Covered Terrace
+Button_5EDB5D95_0AED_08C5_4198_FC444CB963CB.label = Covered Terrace
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Covered Terrace
+Button_EBE99AD2_813C_EA77_41A8_91D1BE072535_mobile.label = Covered Terrace FF
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label = Covered Terrace FF
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = Dining Area
+Button_E929CC4B_810D_EE55_41C8_6D19C339FB55_mobile.label = Dining Area
+Button_EADA57CB_810D_9A55_41B8_02B9E53BFE45_mobile.label = Dirty Kitchen
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = Dry Kitchen
+Button_EAD1DA1F_810D_95ED_41DB_7711C4F6962E_mobile.label = Dry Kitchen
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = FIRST FLOOR >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = FIRST FLOOR>
+Button_E94D7223_810F_B5D5_41DA_06563EC75653_mobile.label = Family Living
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label = Family Living
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label = First  Floor
+Button_F6B138D7_811B_F67D_41C3_EF35E8634019.label = First Floor
+Button_21801D7A_69BE_9702_41C9_10FAE6CAF620.label = First Floor Plan
+Button_962DCDDD_C556_E840_41E7_F323088855E4.label = Front Terrace
+Button_98A6621E_C55A_DBC0_41E1_CF705E7E2366_mobile.label = Front Terrace
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Front Terrace
+Button_94A716A0_C556_B8C1_41E9_D3227EA3F57F_mobile.label = Front Terrace FF
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = GROUND FLOOR >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = GROUND FLOOR>
+Button_E908B45A_810D_FE77_41D1_44A2D3E25DA5_mobile.label = Garage
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = Garage
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
+Button_F6B0C8D7_811B_F67D_41C7_24FA4BDD8B3E.label = Ground Floor
+Button_21802D79_69BE_970E_41D1_BD5133593206.label = Ground Floor Plan
+Button_EA61E0C7_811D_B65C_41DF_33035CA34A89_mobile.label = Guest Room
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Guest Room
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label = Guest Room
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Gym
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Gym
+Button_E957BFB8_810F_AA33_41D1_54DC3C765B13_mobile.label = Gym
+Button_17598215_31FA_0014_41AC_1166AB319171.label = Gym
+Button_E88ADB26_813C_ABDF_41C4_C24893BF7BF6_mobile.label = Jacuzzi
+Button_EAB9664D_810F_9A6C_41E0_4D44666DF3F7_mobile.label = Kitchen
+Button_4992F49C_7F74_1190_41D4_DF5ADCCB3874.label = Kitchen
+Button_EAE33E6E_810D_AA2F_41C4_92B04C11B05E_mobile.label = Laundry
+Button_5F2E56FB_0AEF_184C_4185_46A681ECC599.label = Laundry
+Button_EABF2B0A_810B_EBD4_41D2_5FC146040FE3_mobile.label = Lobby
+Button_F7F38D66_810C_AE5F_41DB_7B12D345E329_mobile.label = Lobby
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Lobby
+Button_E9C256FD_8104_7A2D_41C6_6B542894C2E2_mobile.label = Lobby
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = Lobby SF
+Button_20B6E7A4_698E_B306_41C5_1D2B11A26F0B.label = Location
+Button_17593215_31FA_0014_41C0_42BAFB0080F0.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
+Button_307E33B4_668B_F306_41A7_5CF8CEF360E0.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
+Button_307E93B4_668B_F306_41A6_CBD332630417.label = Lorem Ipsum
+Button_307EB3B5_668B_F306_41C6_69C371344137.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
+Button_307DC3B6_668B_F302_4189_0C64F68D71AF.label = Lorem Ipsum
+Button_307C43B6_668B_F302_41D8_19CC75D91652.label = Lorem Ipsum
+Button_307C73B7_668B_F302_41D5_E0B2371C1C19.label = Lorem Ipsum
+Button_307CE3B8_668B_F30E_41A8_3E1610390D7A.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label = Lorem Ipsum
+Button_307E33B4_668B_F306_41A7_5CF8CEF360E0.pressedLabel = Lorem Ipsum
+Button_307E13B3_668B_F302_41BD_04F1F323654F.label = Lorem Ipsum
+Button_307FA3B2_668B_F302_41C3_EC29309EC52E.label = Lorem Ipsum
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.pressedLabel = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
+Button_307D33B5_668B_F306_41D0_671B339F3D6F.label = Lorem ipsum
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Main Entrance
+Button_E931E27B_810D_FA35_41D7_4BC8F0465548_mobile.label = Main Entrance
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Main Reception
+Button_E921FE85_810D_EADD_41D1_8FBA3B2D4257_mobile.label = Main Reception
+Button_E893612D_811B_B62D_41D0_ADBEE7BB7CDA_mobile.label = Master Bedroom 01
+Button_EAA21AA2_810F_AAD7_4123_FB1CB873CF20_mobile.label = Master Bedroom 01
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label = Master Bedroom 01
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Master Bedroom 01
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label = Master Bedroom 03
+Button_E822845B_8107_9E75_41C4_7575428DA6EA_mobile.label = Master Bedroom 03
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Master Bedroom 03
+Button_EA523992_811D_B6F4_41CC_D0662C8B7A98_mobile.label = Master Bedroom 03
+Button_73A859D1_4E6F_77AA_41C2_D74B6095EB78.label = OPEN VIRTUAL TOUR
+Button_F69BC264_8107_BA53_41B9_A2FEC4F9EB53.label = OPEN VIRTUAL TOUR
+Button_705138BD_4E66_F5D5_41C7_67A1B6CC770D.label = OPEN VIRTUAL TOUR
+Button_F31B8F67_813C_EA5D_41D1_7615636F5EB3.label = OPEN VIRTUAL TOUR
+Button_5EE9817F_0AED_1845_419E_AD81C5E4AB2C.label = Office
+Button_EAC313F0_810D_9A33_41D1_5C4B565CF34C_mobile.label = Office
+Button_E141D2EC_C57A_D840_41E7_2709A7296646.label = Open Terrace
+Button_E97597B8_810F_BA33_41AA_6E11E4A2B71A_mobile.label = Open Terrace
+Button_97B96347_C54F_D840_41CB_203CB9CE6052.label = Open Terrace FF
+Button_EA2C02D3_810C_9A75_418F_19F6FC56C41B_mobile.label = Open Terrace FF
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Outdoor Deck
+Button_EB1AC8B0_C53D_A8C0_41DC_59CD8E6C7B26.label = Patio
+Button_99B970BB_C54E_58C0_41C0_283118255062_mobile.label = Patio
+Button_EACBA17B_810D_9635_41DF_0B04484B5293_mobile.label = Pool Deck
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Private Terrace
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label = Private Terrace
+Button_F767C31A_813C_9BF7_41DB_7490297C631B_mobile.label = Private Terrace
+Button_F7D96399_810C_BAF4_41C4_AA3CA4742567_mobile.label = Private Terrace
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label = RF 02
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = ROOF TOP FLOOR >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = ROOF TOP FLOOR >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = ROOMS (First Floor) >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = ROOMS >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = ROOMS >
+Button_C275F461_FA18_BE8E_41E0_9DEC924BF13C.label = Roof Floor Plan
+Button_F6B178D8_811B_F673_41E0_AE4CB575202A.label = Roof Top
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = SECOND FLOOR >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = SECOND FLOOR >
+Button_F6B128D7_811B_F67D_4166_9D403BEE503B.label = Second Floor
+Button_EA2BEEEA_810C_AA57_41D1_A954DD128C8A_mobile.label = Second Floor A
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label = Second Floor A
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label = Second Floor B
+Button_EA521C03_810C_ADD5_41DF_86216FFB162D_mobile.label = Second Floor B
+Button_21800D7A_69BE_9702_41D4_8E81E08D9366.label = Second Floor Plan
+Button_5E2379D5_0AED_0845_419F_FAC0C7AE35C3.label = Staff Room
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Street View
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Street View
+Button_3550EB22_668A_9302_41D3_45A8C1831AAC.label = TERRACES >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = TERRACES >
+Button_E95BBD1E_810F_AFEC_41D9_198CB1482DFB_mobile.label = Terrace
+Button_496B43BD_7F77_F793_41A7_C4DD2B858C73.label = Terrace
+Button_E74891A1_C535_F8C0_41D2_568332DBA900.label = Terrace
+Button_E89C7E37_8107_AA3D_41C8_15D16C51B65B_mobile.label = Terrace  B
+Button_E8F4DB17_8107_ABFD_4193_F1881FD9E83D_mobile.label = Terrace A
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Terrace Lagoon Side
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Terrace RF (Road side)
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Wet Kitchen
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_1E18723C_57F1_802D_41C5_8325536874A5.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_en.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_en.jpg
+Image_21804D79_69BE_970E_41B2_ECC4C817E5DB.url = skin/Image_21804D79_69BE_970E_41B2_ECC4C817E5DB_en.png
+Image_2DF5BB1F_698E_9302_41BE_BA1316F1FCE9.url = skin/Image_2DF5BB1F_698E_9302_41BE_BA1316F1FCE9_en.png
+Image_4AE43CDD_5EE8_88F7_41B0_426EA5B4F51F.url = skin/Image_4AE43CDD_5EE8_88F7_41B0_426EA5B4F51F_en.jpg
+Image_4AE4FCDD_5EE8_88F7_41AE_7B34348A877D.url = skin/Image_4AE4FCDD_5EE8_88F7_41AE_7B34348A877D_en.jpg
+Image_4C0C0CF8_5EE8_88BE_41D1_9925B6B656C3.url = skin/Image_4C0C0CF8_5EE8_88BE_41D1_9925B6B656C3_en.jpg
+Image_F6B0F8D6_811B_F67F_41DC_D75EEC3A6DEF.url = skin/Image_F6B0F8D6_811B_F67F_41DC_D75EEC3A6DEF_en.png
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
+Label_7316602C_4E69_74FA_41B0_7284F8EBFA04.text = LAGOON BEACH VILLA 90
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
+Label_F35416AA_810C_7AD7_41A7_3AF7F89344A8.text = Lagoon Beach
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = REEF ISLAND
+Label_4F2B55F5_4EAF_9F6A_41BD_6055EB2D2181.text = REEF ISLAND
+Label_4F2B55F6_4EAF_9F56_419B_BAF1FDB3804B.text = Signature Villa 40 - Jasmine
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Signature Villa 40 - Jasmine
+Label_F771A8DA_8107_9677_41E0_E67DF9A07972.text = VILLA 90
+Label_70F181D7_4E6B_7756_4140_1349632BD541.text = WELCOME
+Label_73018A04_4E6E_F4AA_41BD_560BBAF3832B.text = ZINNIA
+
+### Multiline Text
+HTMLText_4AE4BCDD_5EE8_88F7_41A5_FD2F970F1FDC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.060000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.580000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>Lagoon Beach</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.580000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>Villa 87</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Oswald';"><B>Iris</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">A refined five-bedroom waterfront residence designed to maximize natural light and lagoon views. Villa 87 combines generous interiors with an internal courtyard, private pool, expansive terraces and elevated rooftop spaces, creating a calm and contemporary island living experience in the heart of the city.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>Bedrooms:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5000000000000018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>5</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>Indoor Area:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5000000000000018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>1,390 sq.m.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.08vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>Land Area:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5000000000000018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>1,558 sq.m.</B></SPAN></SPAN></DIV></div>
+HTMLText_4C0C3CF8_5EE8_88BE_41D5_8EEACF3D5601.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.42vmin;font-family:'Oswald';"><B><I>LAGOON BEACH </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.42vmin;font-family:'Oswald';"><B><I>VILLA 87 </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>IRIS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.1900000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;">A refined five-bedroom waterfront residence designed to maximize natural light and lagoon views. Villa 87 combines generous interiors with an internal courtyard, private pool, expansive terraces and elevated rooftop spaces, creating a calm and contemporary island living experience in the heart of the city.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>Bedrooms: </I></B></SPAN><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>5</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>Indoor Area: </I></B></SPAN><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>1,390 sq.m.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>Land Area: </I></B></SPAN><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>1,558 sq.m.</B></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5800000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2699999999999987vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1099999999999977vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1099999999999977vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1099999999999977vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.25vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_6BFB9736_5985_9302_41C6_43BE8ABEB767.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.65vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">PHOTOALBUM:</SPAN></SPAN></DIV></div>
+HTMLText_4AE4DCDD_5EE8_88F7_41D1_3A00BC21E997.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.000000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_5EDC07A6_604A_587C_41C2_357C4E1573AC.toolTip = OPEN VIRTUAL TOUR
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Villa 90
